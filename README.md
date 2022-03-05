@@ -26,14 +26,14 @@ Star and Watch the repo and pull new changes regularly.
 |[Google Summer of Code](https://summerofcode.withgoogle.com/) | Remote | Start preparing now as they require a proposal - Applications for GSoC Contributors Open April 4-19 | |
 |[Summer of Bitcoin](https://www.summerofbitcoin.org/) | Remote | Open source - Ends March 5 |
 |<del>Outreachy</del>| Remote | Closed |
-|[MLH Fellowship](https://fellowship.mlh.io/) | Remote | Open source |
+|[MLH Fellowship](https://fellowship.mlh.io/) | Remote | Open source |✔️
 |[Tweag OpenSource Fellowship](https://lnkd.in/g5emM3SS) | Remote | Open source - Deadlines on March 30 and September 30 |
 |<del> GirlScript Summer of Code OpenSource program </del> | Remote | Closed |
 |[LFX Mentorship](https://lnkd.in/gzaGkamS) | Remote | Open source |
-|[Brainnest](https://bbrainnest.zohorecruit.com/jobs/Careers/656784000003471752/Data-Analysis-Intern-Remote-Internship---Analyst?source=LinkedIn&embedsource=LinkedIn%2BLimited%2BListings) | Remote | Data Analyst Intern, Open source |
+|[Brainnest](https://bbrainnest.zohorecruit.com/jobs/Careers/656784000003471752/Data-Analysis-Intern-Remote-Internship---Analyst?source=LinkedIn&embedsource=LinkedIn%2BLimited%2BListings) | Remote | Data Analyst Intern, Open source |✔️
 |[Edvora](https://wuzzuf.net/internship/eIUfWmCbvJh0-Native-iOS-Intern-Edvora-Private-Limited-Cairo-Egypt?l=cup&t=bj&a=Internships-in-Egypt&o=18)| Remote | Need experience in using Swift- SwiftUI- IOS development, Open source |
 |<del>Terminix</del>| The program has traditionally been on-site, but hybrid and remote arrangements can be discussed |Closed|
-|[Acoustic](https://careers-acoustic.icims.com/jobs/2615/job?utm_source=indeed_integration&iis=Job+Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f&mobile=false&width=800&height=500&bga=true&needsRedirect=false&jan1offset=120&jun1offset=180) | Flexible Hybrid Model: remote and/or on-site work schedule to suit your needs | Software Development, Open source |
+|[Acoustic](https://careers-acoustic.icims.com/jobs/2615/job?utm_source=indeed_integration&iis=Job+Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f&mobile=false&width=800&height=500&bga=true&needsRedirect=false&jan1offset=120&jun1offset=180) | Flexible Hybrid Model: remote and/or on-site work schedule to suit your needs | Software Development, Open source |✔️
 |[Twitter Software Engineer Intern](https://jobs.smartrecruiters.com/ni/Twitter2/434ede5b-2775-4628-aee5-fbd573936a25-2022-engineering-internships-europe-middle-east-africa-emea-)| Worldwide | Open |
 |[Linkedin backend intern](https://www.linkedin.com/jobs/search/?currentJobId=2707291379&f_C=1337&f_E=1&geoId=90000084&keywords=linkedin&location=San%20Francisco%20Bay%20Area)| Worldwide | Open |
 |[Pinterest Software Engineer Intern](https://www.pinterestcareers.com/job/14097616/?source=linkedin_limited_listing&utm_source=linkedin_limited_listing)| Dublin-Ireland | Open |
@@ -42,7 +42,7 @@ Star and Watch the repo and pull new changes regularly.
 |[IBM](https://www.ibm.com/eg-en?lnk=fcc)| Cairo | Not Yet |
 |[Mentor Graphics](https://eda.sw.siemens.com/en-US/)| Cairo | Not Yet |
 |[Instabug](https://instabug.com/)| Cairo | Not Yet |
-|[Cegedim](https://careers.cegedim.com/en/annonce/1537271-software-developer-intern-cairo)| Cairo | 6-12 months internship |
+|[Cegedim](https://careers.cegedim.com/en/annonce/1537271-software-developer-intern-cairo)| Cairo | 6-12 months internship |✔️
 |[Incorta](https://www.incorta.com/) | Alexandria | Not Yet |
 |[Eventum](http://eventumsolutions.com/) | Alexandria | Not Yet |
 |[Rubikal](https://rubikal.com/) | Alexandria | Not Yet |
